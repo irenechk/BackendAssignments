@@ -1,0 +1,16 @@
+[
+  {
+    "studentName": "Irene",
+    "collegeId": "C101",
+    "vehicleNumber": "MH14XY5679",
+    "vehicleType": "Car",
+    "registrationDate": "2026-09-07"
+  },
+  {
+    "studentName": "Aditya",
+    "collegeId": "C102",
+    "vehicleNumber": "MH14XY5689",
+    "vehicleType": "Bike",
+    "registrationDate": "2026-09-17"
+  }
+]
